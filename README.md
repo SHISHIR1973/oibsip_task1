@@ -9,14 +9,14 @@
 <b> &nbsp;&nbsp;&nbsp;&nbsp;3.Cancellation Form </b> - If passengers want to cancel their tickets then they have to provide their PNR number and after submitting it, this will display the entire information related to that particular PNR number. If users want to confirm their cancellation, in this case they have to press OK button.
 ***
 ### commands
-1. For compilation:
+<b>1. For compilation:</b>
 ~~~
 javac <filename.java>
 ~~~
 ~~~
 javac ReservationSystem.java
 ~~~
-2. For execution:
+<b>2. For execution:</b>
 ~~~
 java -cp[classpath] .;[jar file path] filename.class
 ~~~
