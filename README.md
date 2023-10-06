@@ -7,3 +7,19 @@
 <b> &nbsp;&nbsp;&nbsp;&nbsp;2.Reservation System </b> - Under reservation form users will have to fill the necessary details such as their basic details, train number, train name will automatically come in the box, class type, date of journey, from (place) to destination and after that, users will have to press insert button.</br>
 ***
 <b> &nbsp;&nbsp;&nbsp;&nbsp;3.Cancellation Form </b> - If passengers want to cancel their tickets then they have to provide their PNR number and after submitting it, this will display the entire information related to that particular PNR number. If users want to confirm their cancellation, in this case they have to press OK button.
+***
+### commands
+1. For compilation:
+~~~
+javac <filename.java>
+~~~
+~~~
+javac ReservationSystem.java
+~~~
+2. For execution:
+~~~
+java -cp[classpath] .;[jar file path] filename.class
+~~~
+~~~
+java -cp .;mysql-connector-j-8.1.0.jar ReservationSystem
+~~~
