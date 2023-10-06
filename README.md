@@ -1,11 +1,11 @@
 # ONLINE RESERVATION SYSTEM
 &nbsp;&nbsp;&nbsp;&nbsp;This Online Reservation System is included with all the necessary fields which are required during online reservation system. This Online Reservation System is an easy to use and can be used by any person. The basic idea behind this project is to save data in a central database which can be accessed by any authorize person to get information and saves time and burden which are being faced by their customers.
 ***
-## REQUIREMENTS
+### REQUIREMENTS
 1. <a href="https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html" target="_blank">JDK 8</a>
-2. <a href="https://dev.mysql.com/downloads/installer/">MySQL</a>
-3. <a href="https://dev.mysql.com/downloads/connector/j/" >MySQL JDBC Driver</a>
-4. Any Code Editor ( <a href="https://code.visualstudio.com/download">VS Code</a> )
+2. <a href="https://dev.mysql.com/downloads/installer/" target="_blank">MySQL</a>
+3. <a href="https://dev.mysql.com/downloads/connector/j/" target="_blank">MySQL JDBC Driver</a>
+4. Any Code Editor ( <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a> )
 ***
 ### MODULES
 <b> &nbsp;&nbsp;&nbsp;&nbsp;1. Login Form </b> - To access this Online Reservation System, each user should have a valid login id and password. After providing the correct login id and password, users will able to access the main system.</br>
