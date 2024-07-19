@@ -17,7 +17,7 @@
 ### COMMANDS
 <b>1. For compilation:</b>
 ~~~
-javac <filename.java> <a href="https://dev.mysql.com/downloads/connector/j/" target="_blank">MySQL JDBC Driver</a>
+javac <filename.java>
 ~~~
 ~~~
 javac ReservationSystem.java
